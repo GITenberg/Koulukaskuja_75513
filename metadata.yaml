@@ -1,0 +1,25 @@
+_repo: Koulukaskuja_75513
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bonifacius, Veli
+    gutenberg_agent_id: '58033'
+    url: http://www.gutenberg.org/2009/agents/58033
+description: ''
+gutenberg_issued: '2025-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75513'
+language: fi
+pgterms:marc905: 20250227003716bonifacius
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Koulukaskuja
+url: http://www.gutenberg.org/ebooks/75513
