@@ -1,11 +1,16 @@
 _repo: Koulukaskuja_75513
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bonifacius, Veli
     gutenberg_agent_id: '58033'
     url: http://www.gutenberg.org/2009/agents/58033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75513#Koulukaskuja
 gutenberg_issued: '2025-03-03'
 gutenberg_type: Text
 identifiers:
